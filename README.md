@@ -14,8 +14,9 @@
     + BoTech.License will be a tool that license applications from the customer to the client.
 ## About me
 
-+ I currently have a lot of free time between my Abitur and the coming winter semester (computer science studies), which I would like to use for many projects.
-
++ I am currently in my first semester studying Applied Computer Science at the University of Duisburg-Essen.
++ When I have time, I work on various projects in my free time.
+  
 ![BoTech Logo](https://raw.githubusercontent.com/BoTech-Development/BoTech.UI/master/ReadmeAssets/BoTechLogoComplete.png)
 
 
