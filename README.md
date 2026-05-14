@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 
-## 🛤️ Roadmap for 12.2025-12.2026
+## 🛤️ Roadmap for 12.2025-12.2026 
+#### and maybe above...
 ```mermaid
 ---
 config:
@@ -86,7 +87,7 @@ flowchart TB
 ### About me
 + I am currently in my second semester studying Applied Computer Science at the University of Duisburg-Essen.
 + When I have time, I work on various (see diagram) projects in my free time.
-+ I currently work as a software developer (working student) at Benteler Steel/Tube
++ Since my first semester I work as a software developer (working student) at Benteler Steel/Tube.
 
 ### Get in Contact
 + Mail: [support@botech.dev](mailto:support@botech.dev)
