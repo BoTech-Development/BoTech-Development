@@ -93,5 +93,5 @@ flowchart TB
 + Mail: [support@botech.dev](mailto:support@botech.dev)
 + Or just open a ticket (issue) in one of the repos
 
-[![Sponsor BoTech-Development](https://assets.botech.dev/Logos/SponsorBoTechButton.png)](https://github.com/sponsors/BoTech-Development)
+
 
